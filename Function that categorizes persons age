@@ -1,0 +1,14 @@
+age = 12    #put age or number here lods
+
+if age < 0:
+    print("Invalid age entered. Age cannot be negative.")
+elif 0 <= age <= 12:
+    print("You are an atab.")
+elif 13 <= age <= 19:
+    print("You are a skibidi.")
+elif 20 <= age <= 64:
+    print("You are a losyang.")
+else:
+    print("You are a Masiken.")
+    
+#MATSO
